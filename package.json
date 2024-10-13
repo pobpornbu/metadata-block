@@ -19,7 +19,7 @@
 	},
 	"dependencies": {
 		"@wordpress/components": "^28.8.0",
-		"@wordpress/core-data": "^7.8.0",
+		"@wordpress/core-data": "^7.8.1",
 		"@wordpress/data": "^10.8.0",
 		"@wordpress/plugins": "^7.8.0"
 	}
